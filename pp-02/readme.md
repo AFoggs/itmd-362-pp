@@ -95,6 +95,7 @@ where you can disable all notifications. Create the screenshots, transfer them t
 working on your Production Problems, then copy them to this directory (`pp-02`) and add and commit
 them to the repository.
 
+
 6. Invest in a machine-washable microfiber cloth & clean your screens.
 
 There’s no deliverable for this, but it is good professional practice always to have a cloth to wipe
