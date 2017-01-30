@@ -86,6 +86,8 @@ Use Google or another search engine to learn the keyboard commands to take a scr
 window of your distraction-free browser. Create the screenshot, then copy it to this directory
 (`pp-02`) and add and commit it to the repository.
 
+
+
 5. Learn to disable notifications.
 
 Projecting your screen or showing it to someone else can be an immediate source of embarrassment if
@@ -108,3 +110,5 @@ microfiber+cloths>
 When you’re working next to someone, or certainly showing off your work to a client, manager, or
 coworker, you want them focused on your work—not the gross germ-farm oil-slick on your laptop,
 tablet, and phone screens.
+
+Already own microfiber cloth.
