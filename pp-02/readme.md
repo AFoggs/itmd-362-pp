@@ -1,9 +1,10 @@
-# Production Problem 2: Clean Up and Organize Your Devices
+﻿# Production Problem 2: Clean Up and Organize Your Devices
 
 When you show off work on your own computer to someone else (a boss, a client, a colleague, a
 professor), it’s not unlike inviting someone over to where you live. Most of us need to do some
 cleanup first. Our desktops and mobile devices are weird places, where our professional work (email,
 projects) sit right next to our personal lives (messenger apps, Angry Birds, whatever).
+
 
 This week’s problem asks you to organize your devices so that they’re presentable for other people,
 and also better organized for your own work. Most of us are digital slobs, storing files and app
@@ -40,6 +41,7 @@ all do the job nicely. What works for you?
 Once you’ve cleaned up your desktop, use Google or another search engine to learn the keyboard
 commands to take a screenshot of your desktop. Create the screenshot, then copy it to this directory
 (`pp-02`) and add and commit it to the repository.
+
 
 2. Clean up your home directory.
 
