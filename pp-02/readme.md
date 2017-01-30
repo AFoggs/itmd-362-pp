@@ -52,6 +52,8 @@ doing. It also means you won’t have to think twice about where to start your n
 to return to when you’re back at work, because you’ll have a `~/Projects` directory or something
 like it.
 
+Nothing to show, but it's done
+
 3. Set up virtual desktops.
 
 Every desktop operating system, even older versions of Windows, make it possible to set up multiple
@@ -66,6 +68,10 @@ screenshot, then copy it to this directory (`pp-02`) and add and commit it to th
 
 Then, also list here the keyboard commands to switch between your different virtual desktops (on
 some operating systems, you might be able to customize the shortcuts to your own liking):
+
+No Keyboard commands for switching between each virtual machine.
+
+
 
 
 4. Set up a distraction-free browser.
