@@ -7,6 +7,25 @@
   <link rel="stylesheet" media="screen" href="screen.css" />
 </head>
 <body>
-
+ <form method="get" action="#null">
+    <h1>I want information </h1>
+    <ol>
+      <li id="input-email">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="example@whocares.com" pattern="^.+@.+$" />
+      </li>
+      <li id="input-num">
+        <label for="num">Phone Number</label>
+        <input type="num" name="num" id="num" placeholder="(123)-456-7890" pattern="[\(]\d{3}[\-)]\d{3}[\-]\d{4}" />
+      </li>
+      <li id="input-date">
+        <label for="date">Date of Birth</label>
+        <input type="date" name="date" id="date" placeholder="MM/DD/YYYY" pattern="\d{1,2}/\d{1,2}/\d{4}" />
+      </li>
+      <li id="input-submit">
+        <input type="submit" name="submit" id="submit" value="submit-form" />
+      </li>
+    </ol>
+  </form>
 </body>
 </html>
