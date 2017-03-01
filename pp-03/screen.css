@@ -216,3 +216,11 @@ input {
   background-color: #808080;
   border: 0.08em solid #808080;
 }
+
+/* ===== LAYOUT STYLES ===== */
+
+#boarder {
+  border: solid black;
+  text-align: center;
+  background-color: white;
+}
