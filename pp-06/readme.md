@@ -29,4 +29,4 @@ origin	https://github.com/AFoggs/new-portal.git (push)
 
 8. From within your fork of the repository on GitHub, open up a pull request. Each group member should review the request before it is merged, and then pull from the group repository to have a complete, up-to-date `README.md` file.
 
-Write the URL of your pull request here:
+Write the URL of your pull request here:  https://github.com/scarletfoxes/new-portal/pull/4
