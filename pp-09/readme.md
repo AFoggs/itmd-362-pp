@@ -8,8 +8,8 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. https://stayintech.com/info/UX
+2. http://drpete.co/?topic=25-point-website-usability-checklist
 
 * Your own condensed, ten-item must-have usability checklist:
 
