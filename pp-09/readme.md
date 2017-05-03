@@ -13,13 +13,15 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Clear Call to Action: Users know what to do next and why it benefits them. 
+2. Navigation bar is consistent acrosss all pages.
+3. Links are easily identifiable.
+4. Site is mobile-responsive and fluid across all devices.
+5. Content is useful and up-to-date.
+6. Styling & Color is consistent throughout webpage
+7. Page Titles Are Explanatory
+8. Most important content is displayed first
+9. Site loads quickly and only what is needed and requested.
+10. Font Size/Spacing is easy to read
+
+
