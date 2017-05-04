@@ -14,6 +14,9 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
 
+It is difficult for the user to sign up when landing on the page because it is unclear. As a result, 
+I am adding a sign up section to the home page.
+
 In the HTML, there would be a section dedicated to sign up, with a form that has the labels and questions
 asking for necessary information (Name & Email, etc.) to crete an account, only visible on the homepage.
 
