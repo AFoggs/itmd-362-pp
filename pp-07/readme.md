@@ -37,5 +37,7 @@ clicked easily, and I also added a small amount of space between the labels. The
 towards the very button, and the login button is a little smaller and towards the bottom right due
 to the fact that most people are right handed.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL):https://developer.apple.com/ios/human-interface-guidelines/visual-design/branding/
+* How you implemented it in your sketch: The design itself is just like the actual logo for IIT. It
+takes up the top third of the page. This way, it makes a presence without blocking out any other needed
+information.
