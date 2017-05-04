@@ -26,8 +26,10 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/interaction/data-entry/
+* How you implemented it in your sketch: Only the required information for signing in on the website is 
+displayed on the front page: The username and password, in addition to the logo. This eliminates all 
+extra clutter.
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
