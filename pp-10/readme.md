@@ -26,4 +26,5 @@ error or if they've succesfully signed up, redirected them to the appropriate pa
 In the CSS, that section would have a boarder and be approximately 25% of the page and fixed in one 
 position so that users can sign up quickly when landing on the site without being redirected, but
 also make sure that if they scroll down they aren't annoyed by the section constantly begging them 
-to sign up
+to sign up.
+
