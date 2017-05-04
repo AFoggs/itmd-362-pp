@@ -31,8 +31,11 @@ Small commits to your Production Problems repository that include:
 displayed on the front page: The username and password, in addition to the logo. This eliminates all 
 extra clutter.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/layout/
+* How you implemented it in your sketch: I gave a third of a page to the logo. Below it, I made the buttons relatively large so that they can be
+clicked easily, and I also added a small amount of space between the labels. The Forgot password is 
+towards the very button, and the login button is a little smaller and towards the bottom right due
+to the fact that most people are right handed.
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
